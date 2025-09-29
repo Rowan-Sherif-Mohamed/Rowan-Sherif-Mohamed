@@ -33,60 +33,40 @@
 
 ###
 
-### 🛠️ Tech Stack
+<h3 align="left">🛠️ Languages & Tools:</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Bloc-Pattern-blue?style=flat-square&logo=flutter" height="28" alt="Bloc" />
-      <br>Bloc
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Cubit-State-lightblue?style=flat-square&logo=flutter" height="28" alt="Cubit" />
-      <br>Cubit
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" />
-      <br>.NET
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Entity_Framework-ORM-green?style=flat-square&logo=.net" height="28" alt="EF" />
-      <br>Entity Framework
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/LINQ-Queries-orange?style=flat-square&logo=.net" height="28" alt="LINQ" />
-      <br>LINQ
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/SQL_Server-Database-red?style=flat-square&logo=microsoftsqlserver" height="28" alt="SQL" />
-      <br>SQL Server
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
-      <br>VS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
-      <br>Android Studio
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <!-- Row 1: Mobile Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  
+  <br/><br/>
+  
+  <!-- Row 2: .NET Stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".net logo" />
+  <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" alt="bloc badge"/>
+  <img src="https://img.shields.io/badge/Cubit-5C2D91?style=for-the-badge&logoColor=white" height="28" alt="cubit badge"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" height="28" alt="entity framework badge"/>
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="28" alt="linq badge"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" alt="sql server badge"/>
+  
+  <br/><br/>
+  
+  <!-- Row 3: IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" />
+  
+  <br/><br/>
+  
+  <!-- Row 4: Web Basics -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+
+</div>
 
 
 ###
