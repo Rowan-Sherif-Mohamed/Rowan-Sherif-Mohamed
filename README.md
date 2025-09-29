@@ -7,18 +7,24 @@
 <div align="center">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-profile-link/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-profile-link/" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img width="12"/>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:rowan.sherif.mohamed@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img width="12"/>
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/201234567890" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="what
+  <a href="https://wa.me/201275794886">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+    <img width="12"/>
+  </a>
+
+</div>
 
 
 ###
