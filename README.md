@@ -17,15 +17,17 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+# Hi, I'm Rowan 👩‍💻 | Mobile App & Full Stack .NET Developer
 
-###
+---
 
-<h2 align="left">👩‍💻  About Me</h2>
+## 👩‍💻 About Me
+- 🔭 Mobile App Developer using **Flutter**  
+- ⚙️ Learning **Full Stack .NET Development**  
+- 📚 Passionate about building **scalable apps**  
+- 🌍 Based in **Egypt**
 
-###
-
-<p align="left"> <h3>I'm Rowan Sherif Mohamed</h3><br><br>- 🔭 I’m working as Mobile App Developer using Flutter<br>- 📚 I'm currently learning Full Stack Web Development</p>
+---
 
 ###
 
@@ -93,9 +95,13 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rowan-Sherif-Mohamed&show_icons=true&theme=radical" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=Rowan-Sherif-Mohamed&theme=radical" height="200"/>
+</p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rowan-Sherif-Mohamed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
