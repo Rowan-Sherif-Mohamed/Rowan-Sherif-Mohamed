@@ -1,11 +1,25 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkb3YweWdvcXlobno1bW5haTM1azdiY3JyaXRpejg1ajAwazk0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" height = "400" width="400" />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkb3YweWdvcXlobno1bW5haTM1azdiY3JyaXRpejg1ajAwazk0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" height = "150"/>
 </div>
 
 ###
-
+<!-- LinkedIn -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/rowan-sherif-a22616264" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
+
+<!-- Gmail -->
+  <a href="rowan.sherif.mohamed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/201275794886" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+
 </div>
 
 ###
@@ -16,9 +30,9 @@
 
 
 ###
-<h1 align = "center"> Hi, I'm Rowan 👩‍💻 | Mobile App & Full Stack .NET Developer</h1>
+<h2 align = "center"> Hi, I'm Rowan 👩‍💻 | Mobile App & Full Stack .NET Developer</h2>
 
-
+</br>
 
 ## 👩‍💻 About Me
 - 🔭 Mobile App Developer using **Flutter**  
