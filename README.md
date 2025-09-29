@@ -32,20 +32,55 @@
 
 
 ###
-<h2 align = "center"> Hi, I'm Rowan 👩‍💻 | Mobile App & Full Stack .NET Developer</h2>
+<h1 align = "left"> Hey there! 👋 I'm Rowan Sherif</h1>
 
 ###
 
-## 👩‍💻 About Me
-- 🔭 Mobile App Developer using **Flutter**  
-- ⚙️ Learning **Full Stack .NET Development**  
-- 📚 Passionate about building **scalable apps**  
-- 🌍 Based in **Egypt**
+<section id="about">
+  <h2>👩‍💻 About Me</h2>
+  <p>
+    Hey there! I'm <strong>Rowan Sherif Mohamed</strong> — a developer who loves 
+    turning ideas into real, working apps.  
+  </p>
+  <p>
+    On the mobile side, I build smooth and user-friendly applications with 
+    <strong>Flutter & Dart</strong>, focusing on clean design and a seamless 
+    experience for users.  
+  </p>
+  <p>
+    On the web side, I dive into the <strong>.NET Core</strong> world — 
+    building full stack solutions with <strong>ASP.NET Core, EF Core, and SQL Server</strong>.  
+    I enjoy tackling challenges, connecting the backend with the frontend, and 
+    making everything run as it should.  
+  </p>
+  <p>
+    🚀 Outside of coding, I’m always curious to learn something new, 
+    explore better ways to write clean code, and work with teams where 
+    everyone grows together.  
+  </p>
+</section>
 
 ---
+<section id="what-i-build">
+  <h2>⚒️ What I Build</h2>
+  <p>
+    I love building <strong>mobile apps</strong> and <strong>web solutions</strong> that make life easier.  
+    From small ideas to full products, I enjoy taking a project from the first 
+    sketch all the way to a working app in people’s hands.  
+  </p>
+  <ul>
+    <li>📱 <strong>Mobile Apps with Flutter</strong> — clean UIs, smooth performance, Firebase integration, and state management with Bloc/Cubit or Provider.</li>
+    <li>🌐 <strong>Full Stack Web Apps with .NET</strong> — scalable backends using ASP.NET Core, EF Core, and SQL Server, with modern frontends to match.</li>
+    <li>🛠️ <strong>Reusable Architectures</strong> — applying MVVM, Clean Architecture, and Repository Pattern for maintainable codebases.</li>
+    <li>🚀 <strong>Problem-Solving Projects</strong> — news platforms, e-commerce stores, event managers, Islamic apps, and movie explorers.</li>
+  </ul>
+  <p>
+    Whether it’s <em>a startup MVP</em> or <em>a personal side project</em>, 
+    my goal is always the same: build something that actually helps people.
+  </p>
+</section>
 
-###
-
+---
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
 <!-- 📱 Mobile -->
