@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkb3YweWdvcXlobno1bW5haTM1azdiY3JyaXRpejg1ajAwazk0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkb3YweWdvcXlobno1bW5haTM1azdiY3JyaXRpejg1ajAwazk0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="600" />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 
 # Hi, I'm Rowan 👩‍💻 | Mobile App & Full Stack .NET Developer
 
----
+
 
 ## 👩‍💻 About Me
 - 🔭 Mobile App Developer using **Flutter**  
