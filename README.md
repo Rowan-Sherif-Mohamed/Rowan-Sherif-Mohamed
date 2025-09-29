@@ -4,6 +4,12 @@
 
 ###
 
+<style>
+  .no-underline {
+    text-decoration: none;
+  }
+</style>
+
 <div align="center">
 
   <!-- LinkedIn -->
