@@ -7,21 +7,21 @@
 <div align="center">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-profile-link/" >
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-    <img width="12"/>
+  <a href="www.linkedin.com/in/rowan-sherif-a22616264" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+    <img width = "7"/>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:rowan.sherif.mohamed@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-    <img width="12"/>
+  <a href="mailto:rowan.sherif.mohamed@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+    <img width = "7"/>
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/201275794886">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
-    <img width="12"/>
+  <a href="https://wa.me/201275794886" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28" />
+    <img width = "7"/>
   </a>
 
 </div>
@@ -37,7 +37,7 @@
 ###
 <h2 align = "center"> Hi, I'm Rowan 👩‍💻 | Mobile App & Full Stack .NET Developer</h2>
 
-</br>
+###
 
 ## 👩‍💻 About Me
 - 🔭 Mobile App Developer using **Flutter**  
