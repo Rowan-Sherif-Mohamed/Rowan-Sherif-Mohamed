@@ -57,6 +57,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Cubit-5C2D91?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
+  <img width="12" />
 </div>
 
 <br/>
@@ -73,10 +77,6 @@
   <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="28" />
   <img width="12" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Cubit-5C2D91?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
   <img width="12" />
 </div>
 
