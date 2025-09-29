@@ -4,28 +4,22 @@
 
 ###
 
-<style>
-  .no-underline {
-    text-decoration: none;
-  }
-</style>
-
 <div align="center">
 
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/rowan-sherif-a22616264" target="_blank">
+  <a href="www.linkedin.com/in/rowan-sherif-a22616264" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
     <img width = "7"/>
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:rowan.sherif.mohamed@gmail.com" target="_blank">
+  <a href="mailto:rowan.sherif.mohamed@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
     <img width = "7"/>
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/201275794886" target="_blank">
+  <a href="https://wa.me/201275794886" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28" />
     <img width = "7"/>
   </a>
