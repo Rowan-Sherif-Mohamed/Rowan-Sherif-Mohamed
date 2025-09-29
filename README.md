@@ -8,17 +8,17 @@
 
   <!-- LinkedIn -->
   <a href="www.linkedin.com/in/rowan-sherif-a22616264" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right:10px;"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>
 
   <!-- Gmail -->
   <a href="mailto:rowan.sherif.mohamed@gmail.com" target="_blank" >
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/201275794886" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="28" style="margin-right:10px;" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 </div>
