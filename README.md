@@ -21,11 +21,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">I'm Rowan Sherif Mohamed<br><br>- 🔭 I’m working as Mobile App Developer using Flutter<br>- 📚 I'm currently learning Full Stack Web Development</p>
+<p align="left"> <h3>I'm Rowan Sherif Mohamed</h3><br><br>- 🔭 I’m working as Mobile App Developer using Flutter<br>- 📚 I'm currently learning Full Stack Web Development</p>
 
 ###
 
@@ -33,84 +33,40 @@
 
 ###
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="left">🛠️ Languages & Tools:</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/><br/>
-      Flutter
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/><br/>
-      Dart
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/><br/>
-      Firebase
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/><br/>
-      C#
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40"/><br/>
-      .NET Core
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=flat&logo=.net&logoColor=white" height="28"/><br/>
-      EF Core
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=.net&logoColor=white" height="28"/><br/>
-      LINQ
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" height="28"/><br/>
-      SQL Server
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Bloc-02569B?style=flat&logo=flutter&logoColor=white" height="28"/><br/>
-      Bloc / Cubit
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/><br/>
-      Visual Studio
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40"/><br/>
-      Android Studio
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br/>
-      JavaScript
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br/>
-      HTML
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br/>
-      CSS
-    </td>
-    <td align="center" width="120">
-      <!-- فاضي لو تحبي تضيفي حاجة تانية -->
-    </td>
-  </tr>
-</table>
+  ## 1: Mobile App Development
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 
+  <br/><br/>
+
+   ## 2: .NET Core stack
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet core logo" />
+  <img src="https://img.shields.io/badge/EF%20Core-68217A?style=for-the-badge&logo=.net&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Cubit-5C2D91?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
+
+  <br/><br/>
+
+  ## 3: IDEs 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" />
+
+  <br/><br/>
+
+  ## 4: Web basics
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+
+</div>
 
 
 ###
