@@ -32,7 +32,7 @@
 
 
 ###
-<h1 align = "left"> Hey there! 👋 I'm Rowan Sherif</h1>
+<h1 align = "left"> Hey there! 👋 I'm Rowan Sherif Mohamed</h1>
 
 ###
 
@@ -69,10 +69,6 @@
     <li>🛠️ <strong>Reusable Architectures</strong> — applying MVVM, Clean Architecture, and Repository Pattern for maintainable codebases.</li>
     <li>🚀 <strong>Problem-Solving Projects</strong> — news platforms, e-commerce stores, event managers, Islamic apps, and movie explorers.</li>
   </ul>
-  <p>
-    Whether it’s <em>a startup MVP</em> or <em>a personal side project</em>, 
-    my goal is always the same: build something that actually helps people.
-  </p>
 </section>
 
 ---
