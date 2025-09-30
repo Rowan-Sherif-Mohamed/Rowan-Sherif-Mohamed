@@ -39,7 +39,7 @@
 <section id="about">
   <h2>👩‍💻 About Me</h2>
   <p>
-    Hey there! I'm <strong>Rowan Sherif Mohamed</strong> — a developer who loves 
+    I,m a developer who loves 
     turning ideas into real, working apps.  
   </p>
   <p>
@@ -63,11 +63,6 @@
 ---
 <section id="what-i-build">
   <h2>⚒️ What I Build</h2>
-  <p>
-    I love building <strong>mobile apps</strong> and <strong>web solutions</strong> that make life easier.  
-    From small ideas to full products, I enjoy taking a project from the first 
-    sketch all the way to a working app in people’s hands.  
-  </p>
   <ul>
     <li>📱 <strong>Mobile Apps with Flutter</strong> — clean UIs, smooth performance, Firebase integration, and state management with Bloc/Cubit or Provider.</li>
     <li>🌐 <strong>Full Stack Web Apps with .NET</strong> — scalable backends using ASP.NET Core, EF Core, and SQL Server, with modern frontends to match.</li>
