@@ -114,17 +114,6 @@
 
 <br/>
 
-<!-- 💻 IDEs -->
-<div align="left">
-  <h3>💻 IDEs</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
-  <img width="12" />
-</div>
-
-<br/>
-
 <!-- 🌐 Web -->
 <div align="left">
   <h3>🌐 Web Basics</h3>
@@ -133,6 +122,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+</div>
+
+<br/>
+
+<!-- 💻 IDEs -->
+<div align="left">
+  <h3>💻 IDEs</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
   <img width="12" />
 </div>
 
