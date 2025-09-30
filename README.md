@@ -35,7 +35,9 @@
 <h1 align = "left"> Hey there! 👋 I'm Rowan Sherif Mohamed</h1>
 
 <p>
+  <strong>
 🎓 Graduate with Bachelor degree in computer science from The Arab Academy For Science, Technology & Maritime Transport
+  </strong>
 </p>
 
 ###
