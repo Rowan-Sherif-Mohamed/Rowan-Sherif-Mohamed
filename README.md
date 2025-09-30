@@ -36,7 +36,7 @@
 
 <p>
   <strong>
-🎓 Graduate with Bachelor degree in computer science from The Arab Academy For Science, Technology & Maritime Transport
+🎓 Graduate with Bachelor degree in computer science from The Arab Academy For Science, Technology & Maritime Transport in Egypt | Mobile App & Full stack .NET Developer
   </strong>
 </p>
 
