@@ -91,7 +91,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/rrousselGit/provider/master/resources/logo.png" height="40" alt="provider logo"/>
+  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" />
   <img width="12" />
 </div>
 
