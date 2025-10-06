@@ -40,12 +40,18 @@
   </strong>
 </p>
 
+## 🌐 My Portfolio
+You can view my Portfolio from the link below:
 
 <a href="https://rowan-sherif-mohamed.github.io/My-Portfolio/" target="_blank">
-  🌐 Visit My Portfolio
+   My Portfolio
 </a>
 
-<p>Resume: <a href="https://github.com/Rowan-Sherif-Mohamed/Rowan-Sherif-Mohamed/blob/main/Rowan-Sherif-Mohamed-Cv.pdf" target="_blank">My Resume</a></p>
+## 📄 My CV
+You can view or download my CV from the link below:
+
+👉 [Download My CV](https://github.com/Rowan-Sherif-Mohamed/My-Portfolio/raw/main/RowanSherifCV.pdf)
+
 
 
 <section id="about">
