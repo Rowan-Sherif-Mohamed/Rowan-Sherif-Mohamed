@@ -41,7 +41,9 @@
 </p>
 
 
-<p>Portfolio: <a href="file:///D:/My_portfolio/index.html"  target="_blank">My Portfolio</a></p>
+<a href="https://rowan-sherif-mohamed.github.io/My-Portfolio/" target="_blank">
+  🌐 Visit My Portfolio
+</a>
 
 <p>Resume: <a href="https://github.com/Rowan-Sherif-Mohamed/Rowan-Sherif-Mohamed/blob/main/Rowan-Sherif-Mohamed-Cv.pdf" target="_blank">My Resume</a></p>
 
