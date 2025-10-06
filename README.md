@@ -50,7 +50,7 @@ You can view my Portfolio from the link below:
 ## 📄 My CV
 You can view or download my CV from the link below:
 
-👉 [Download My CV](https://github.com/Rowan-Sherif-Mohamed/My-Portfolio/raw/main/RowanSherifCV.pdf)
+👉 [My CV](https://github.com/Rowan-Sherif-Mohamed/Rowan-Sherif-Mohamed/blob/main/RowanSherifMohamedCv.pdf)
 
 
 
