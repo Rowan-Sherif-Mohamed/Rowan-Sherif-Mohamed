@@ -43,7 +43,7 @@
 
 <p>Portfolio: <a href="file:///D:/My_portfolio/index.html"  target="_blank">My Portfolio</a></p>
 
-<p>Resume: <a href="Rowan-Sherif-Mohamed-Cv.pdf" target="_blank">My Resume</a></p>
+<p>Resume: <a href="[Rowan-Sherif-Mohamed-Cv.pdf](https://github.com/Rowan-Sherif-Mohamed/Rowan-Sherif-Mohamed/blob/main/Rowan-Sherif-Mohamed-Cv.pdf)" target="_blank">My Resume</a></p>
 
 
 <section id="about">
