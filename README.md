@@ -167,8 +167,4 @@ You can view or download my CV from the link below:
   <img src="https://streak-stats.demolab.com?user=Rowan-Sherif-Mohamed&theme=radical" height="200"/>
 </p>
 
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rowan-Sherif-Mohamed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> -->
-
 ###
